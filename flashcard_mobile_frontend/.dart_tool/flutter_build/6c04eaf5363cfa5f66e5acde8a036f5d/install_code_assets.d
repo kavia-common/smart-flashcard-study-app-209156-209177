@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/smart-flashcard-study-app-209156-209177/flashcard_mobile_frontend/.dart_tool/flutter_build/6c04eaf5363cfa5f66e5acde8a036f5d/native_assets.json: 
